@@ -1,5 +1,5 @@
-﻿# -231-Assignment-DSA
+﻿# Assignment-DSA-Sem231
 
-Assignment 1: 10/10
+Assignment 1: 100/100
 
-Assignment 2: 10/10
+Assignment 2: 100/100
